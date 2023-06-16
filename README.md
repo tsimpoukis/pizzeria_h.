@@ -13,8 +13,7 @@
 #define Cplain 12 //kostos plain 
 #define Pfail 0,010 //h pithanotita einai apotuxe tisane xrewseis
 #define Tprep 1 //o xronos Kathe pista einai tis paraggelies 
-#define Tbake 10 //o xronos einai na psithoun mia mono pista 
-#define Tpack 1 //o upallilos paketarismatos
+#define Tbake 10 //o xronos einai na psithoun mia mono pista #define Tpack 1 //o upallilos paketarismatos
 #define Tdellow 5 //o xronos einai to elaxistos paradwsei enan tuxaio sto diastima 
 #define Tdelhigh 15 //o megistos
 
